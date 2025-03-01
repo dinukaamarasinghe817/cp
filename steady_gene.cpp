@@ -1,3 +1,4 @@
+// Link to the problem statement : https://www.hackerrank.com/challenges/bear-and-steady-gene/problem
 #include<bits/stdc++.h>
 
 using namespace std;
